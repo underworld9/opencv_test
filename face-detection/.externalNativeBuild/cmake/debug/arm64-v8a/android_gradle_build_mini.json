@@ -1,0 +1,23 @@
+{
+  "buildFiles": [
+    "D:\\BuildTools\\android-sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\face-detection\\jni\\..\\..\\..\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVModules.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\face-detection\\jni\\..\\..\\..\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVModules-release.cmake",
+    "D:\\BuildTools\\android-sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\face-detection\\jni\\..\\..\\..\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\face-detection\\jni\\CMakeLists.txt",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\face-detection\\jni\\..\\..\\..\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\face-detection\\jni\\..\\..\\..\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVConfig.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\BuildTools\\android-sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\face-detection\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "detection_based_tracker-Debug-arm64-v8a": {
+      "artifactName": "detection_based_tracker",
+      "buildCommand": "D:\\BuildTools\\android-sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\face-detection\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target detection_based_tracker",
+      "abi": "arm64-v8a",
+      "output": "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\face-detection\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libdetection_based_tracker.so"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "buildFiles": [
+    "D:\\BuildTools\\android-sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\jni\\..\\..\\..\\sdk\\native\\jni\\abi-x86\\OpenCVConfig.cmake",
+    "D:\\BuildTools\\android-sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\jni\\..\\..\\..\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\jni\\CMakeLists.txt",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\jni\\..\\..\\..\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\jni\\..\\..\\..\\sdk\\native\\jni\\abi-x86\\OpenCVModules.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\jni\\..\\..\\..\\sdk\\native\\jni\\abi-x86\\OpenCVModules-release.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\BuildTools\\android-sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\.externalNativeBuild\\cmake\\release\\x86 --target clean"
+  ],
+  "libraries": {
+    "mixed_sample-Release-x86": {
+      "artifactName": "mixed_sample",
+      "buildCommand": "D:\\BuildTools\\android-sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\.externalNativeBuild\\cmake\\release\\x86 --target mixed_sample",
+      "abi": "x86",
+      "output": "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\build\\intermediates\\cmake\\release\\obj\\x86\\libmixed_sample.so"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "stringTable": {
+    "0": "D:/ThesisSamples/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.externalNativeBuild/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/BuildTools/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/BuildTools/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmixed_sample_EXPORTS -ID:/ThesisSamples/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni -isystem D:/ThesisSamples/OpenCV-android-sdk/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "D:\\BuildTools\\android-sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\jni\\..\\..\\..\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVConfig.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\jni\\..\\..\\..\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules.cmake",
+    "D:\\BuildTools\\android-sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\jni\\..\\..\\..\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\jni\\CMakeLists.txt",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\jni\\..\\..\\..\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\jni\\..\\..\\..\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules-release.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\BuildTools\\android-sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "mixed_sample-Debug-armeabi-v7a": {
+      "buildCommand": "D:\\BuildTools\\android-sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target mixed_sample",
+      "buildType": "debug",
+      "toolchain": "1057555158",
+      "abi": "armeabi-v7a",
+      "artifactName": "mixed_sample",
+      "files": [
+        {
+          "src": "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\jni\\jni_part.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libmixed_sample.so"
+    }
+  },
+  "toolchains": {
+    "1057555158": {
+      "cppCompilerExecutable": "D:\\BuildTools\\android-sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:2:1-31:12
+MERGED from [:opencv] D:\ThesisSamples\OpenCV-android-sdk\sdk\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:3:5-42
+		INJECTED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+		INJECTED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:2:1-31:12
+		INJECTED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:2:1-31:12
+		INJECTED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:6:5-22:19
+	android:label
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:7:9-38
+activity#org.opencv.samples.puzzle15.Puzzle15Activity
+ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:10:9-21:20
+	android:screenOrientation
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:13:13-50
+	android:label
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:12:13-45
+	android:configChanges
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:14:13-63
+	android:name
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:11:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:19:27-74
+uses-permission#android.permission.CAMERA
+ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:24:5-64
+	android:name
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:24:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:26:5-84
+	android:required
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:26:58-82
+	android:name
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:26:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:27:5-94
+	android:required
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:27:68-92
+	android:name
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:27:19-67
+uses-feature#android.hardware.camera.front
+ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:28:5-90
+	android:required
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:28:64-88
+	android:name
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:28:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:29:5-100
+	android:required
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:29:74-98
+	android:name
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml:29:19-73
+uses-sdk
+INJECTED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+INJECTED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+MERGED from [:opencv] D:\ThesisSamples\OpenCV-android-sdk\sdk\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:opencv] D:\ThesisSamples\OpenCV-android-sdk\sdk\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+INJECTED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+		INJECTED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+		ADDED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml
+		INJECTED from D:\ThesisSamples\OpenCV-android-sdk\samples\15-puzzle\AndroidManifest.xml

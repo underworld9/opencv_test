@@ -1,0 +1,49 @@
+{
+  "stringTable": {
+    "0": "D:/ThesisSamples/OpenCV-android-sdk/samples/face-detection/.externalNativeBuild/cmake/debug/x86_64",
+    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=D:/BuildTools/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/BuildTools/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Ddetection_based_tracker_EXPORTS -ID:/ThesisSamples/OpenCV-android-sdk/samples/face-detection/jni -isystem D:/ThesisSamples/OpenCV-android-sdk/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "D:\\BuildTools\\android-sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\face-detection\\jni\\..\\..\\..\\sdk\\native\\jni\\abi-x86_64\\OpenCVModules-release.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\face-detection\\jni\\..\\..\\..\\sdk\\native\\jni\\abi-x86_64\\OpenCVConfig.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\face-detection\\jni\\..\\..\\..\\sdk\\native\\jni\\abi-x86_64\\OpenCVModules.cmake",
+    "D:\\BuildTools\\android-sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\face-detection\\jni\\..\\..\\..\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\face-detection\\jni\\CMakeLists.txt",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\face-detection\\jni\\..\\..\\..\\sdk\\native\\jni\\OpenCVConfig-version.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\BuildTools\\android-sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\face-detection\\.externalNativeBuild\\cmake\\debug\\x86_64 --target clean"
+  ],
+  "libraries": {
+    "detection_based_tracker-Debug-x86_64": {
+      "buildCommand": "D:\\BuildTools\\android-sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\face-detection\\.externalNativeBuild\\cmake\\debug\\x86_64 --target detection_based_tracker",
+      "buildType": "debug",
+      "toolchain": "1057555158",
+      "abi": "x86_64",
+      "artifactName": "detection_based_tracker",
+      "files": [
+        {
+          "src": "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\face-detection\\jni\\DetectionBasedTracker_jni.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\face-detection\\jni\\DetectionBasedTracker_jni.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\face-detection\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libdetection_based_tracker.so"
+    }
+  },
+  "toolchains": {
+    "1057555158": {
+      "cppCompilerExecutable": "D:\\BuildTools\\android-sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

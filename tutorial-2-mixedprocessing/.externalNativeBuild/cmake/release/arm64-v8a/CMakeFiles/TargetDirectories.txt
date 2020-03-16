@@ -1,0 +1,3 @@
+D:/ThesisSamples/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/mixed_sample.dir
+D:/ThesisSamples/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/ThesisSamples/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,45 @@
+{
+  "stringTable": {
+    "0": "D:/ThesisSamples/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.externalNativeBuild/cmake/release/x86",
+    "1": "--target=i686-none-linux-android21 --gcc-toolchain=D:/BuildTools/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/BuildTools/android-sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmixed_sample_EXPORTS -ID:/ThesisSamples/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni -isystem D:/ThesisSamples/OpenCV-android-sdk/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "D:\\BuildTools\\android-sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\jni\\..\\..\\..\\sdk\\native\\jni\\abi-x86\\OpenCVConfig.cmake",
+    "D:\\BuildTools\\android-sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\jni\\..\\..\\..\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\jni\\CMakeLists.txt",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\jni\\..\\..\\..\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\jni\\..\\..\\..\\sdk\\native\\jni\\abi-x86\\OpenCVModules.cmake",
+    "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\jni\\..\\..\\..\\sdk\\native\\jni\\abi-x86\\OpenCVModules-release.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\BuildTools\\android-sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\.externalNativeBuild\\cmake\\release\\x86 --target clean"
+  ],
+  "libraries": {
+    "mixed_sample-Release-x86": {
+      "buildCommand": "D:\\BuildTools\\android-sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\.externalNativeBuild\\cmake\\release\\x86 --target mixed_sample",
+      "buildType": "release",
+      "toolchain": "1057555158",
+      "abi": "x86",
+      "artifactName": "mixed_sample",
+      "files": [
+        {
+          "src": "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\jni\\jni_part.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "D:\\ThesisSamples\\OpenCV-android-sdk\\samples\\tutorial-2-mixedprocessing\\build\\intermediates\\cmake\\release\\obj\\x86\\libmixed_sample.so"
+    }
+  },
+  "toolchains": {
+    "1057555158": {
+      "cppCompilerExecutable": "D:\\BuildTools\\android-sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
